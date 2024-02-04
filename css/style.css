@@ -65,7 +65,11 @@ div {
     border-right: 5px solid #ffffff;
 }
 
-h2, p {
+.blue h2{
+    color: #C4C4C4;
+}
+
+.blue p {
     color: #C4C4C4;
 }
 
