@@ -62,11 +62,11 @@ div {
     margin-right: 50px;
     border-top: 2px;
     border-right: 5px;
-    h2, p {
-        color: #C4C4C4;
-    }
 }
 
+h2, p {
+    color: #C4C4C4;
+}
 
 .yellow {
     background-color: #ffff00;
